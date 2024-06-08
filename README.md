@@ -1,6 +1,6 @@
-# Python Diwali Sales Analysis
+# Diwali Sales Analysis
 
-The Python Diwali Sales Analysis project is a data analysis project aimed at exploring and understanding sales data during the Diwali festival season using the Python programming language and Jupyter Notebooks. Diwali, also known as the Festival of Lights, is one of the biggest festivals in India and is associated with increased consumer spending across various sectors.
+The Diwali Sales Analysis project is a data analysis project aimed at exploring and understanding sales data during the Diwali festival season using the Python programming language and Jupyter Notebooks. Diwali, also known as the Festival of Lights, is one of the biggest festivals in India and is associated with increased consumer spending across various sectors.
 
 ## Objectives
 
