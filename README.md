@@ -21,7 +21,5 @@ Explore sales trends and consumer behavior during Diwali, India's Festival of Li
 - Pandas, Matplotlib, Seaborn, Plotly, Dash.
 - Scikit-learn for machine learning.
 
-![https://Diwali_Sales_Analysis](https://github.com/rushikeshtagadkar/DiwaliSalesAnalysis/blob/main/Diwali_Sales_Analysis.ipynb)
-
 ## Conclusion
 This project provides valuable insights into sales performance and consumer behavior during Diwali. Businesses can leverage these insights to develop effective sales strategies.
